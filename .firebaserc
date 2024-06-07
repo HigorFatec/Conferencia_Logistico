@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "reserva": "cdrotas2",
+    "default": "cdrotas2",
+    "cdrotas": "cdrotas"
+  },
+  "targets": {},
+  "etags": {}
+}
